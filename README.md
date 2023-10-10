@@ -4,4 +4,4 @@ I'm a passionate software engineer and aspiring entrepreneur. My journey in the 
 
 Check out my [Website](https://zaiyellyintaung.github.io), [LinkedIn](https://www.linkedin.com/in/yourusername/), [YouTube](https://www.youtube.com/@ooo0zai0ooo) and [Twitter](https://twitter.com/zaibutcooler)
 
-### Feel free to reach out to me for any consultations or inquiries via [Mail](mailto:zaiyellyintaung@gmail.com).
+### Feel free to reach out to me for any consultations or inquiries via [Gmail](mailto:zaiyellyintaung@gmail.com).
