@@ -1,8 +1,8 @@
-[![Header](https://github.com/zaiYellYintAung/zaiYellYintAung/blob/master/banner.png?raw=true "Header")](https://github.com/zaiYellYintAung)
-
 ## I am Zai!
 
 Currenty working as a CTO for an Ai startup. An Ai Engineer and a former software engineer. Worked for innovative startups, large enterprise products, and many more.
+
+[![Header](https://github.com/zaiYellYintAung/zaiYellYintAung/blob/master/banner.png?raw=true "Header")](https://github.com/zaiYellYintAung)
 
 ## About Me
 
