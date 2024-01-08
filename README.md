@@ -1,7 +1,7 @@
 ## I am Zai!
 
-Currenty working as a CTO for an Ai startup. An Ai Engineer and a former software engineer. Worked for innovative startups, large enterprise products, and many more.
-
+Currenty working as a CTO at Archaic. An Ai Engineer and a former software engineer. Worked for innovative startups, large enterprise products, and many more. I am here to change the world.
+<!--
 [![Header](https://github.com/zaiYellYintAung/zaiYellYintAung/blob/master/banner.png?raw=true "Header")](https://github.com/zaiYellYintAung)
 
 ## About Me
